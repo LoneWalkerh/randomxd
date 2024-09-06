@@ -62,7 +62,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://i.ibb.co/fF6ZP7W/OIG3-4d-K-1-modified.png'); /* custom icon url */
+	--moon-icon-url: url('https://cdn.discordapp.com/attachments/1263541796772777994/1281511767209672704/OIG3-4d-K-1-modified.png?ex=66dbfc56&is=66daaad6&hm=265c559b8a1429d54a728163e7e879d4bd11c631bc4b8ec53d46a0c874493bca&'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
